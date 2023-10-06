@@ -1,0 +1,23 @@
+.fundo{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.fundo img{
+    height: 50px;
+    margin-left: 30px;
+    align-items: center;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: end;
+    text-align: end;
+    gap: 20px;
+}
